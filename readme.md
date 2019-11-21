@@ -14,3 +14,8 @@ npm init -y
 ```
 ## prettier
 standardizes on format
+```
+prettier \"src/**/*.{js,html}\" --write
+```
+
+require prettier config and format on save in vs code
