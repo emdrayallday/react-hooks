@@ -19,3 +19,11 @@ prettier \"src/**/*.{js,html}\" --write
 ```
 
 require prettier config and format on save in vs code
+
+## eslint
+
+```
+npm install -D eslint eslint-config-prettier
+```
+
+need eslint-config-prettier to tell eslint to not worry about spaces and stuff like that
