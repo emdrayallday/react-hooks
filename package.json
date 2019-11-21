@@ -1,0 +1,24 @@
+{
+  "name": "react-hooks",
+  "version": "1.0.0",
+  "description": "composite component - fancy way of saying a component that you and i created",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"src/**/*.{js,html}\" --write"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emdrayallday/react-hooks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emdrayallday/react-hooks/issues"
+  },
+  "homepage": "https://github.com/emdrayallday/react-hooks#readme",
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
