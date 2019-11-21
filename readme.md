@@ -1,6 +1,10 @@
 # Straight up basics
 composite component - fancy way of saying a component that you and i created
 
+write more code, it's explicit, look back and understand what's happening 
+
+key - instead of rerendering an destroying tree, just moves certain dom node
+
 React.createElement(x,y,z)
 - x = what element to render
 - y = all the attributes you want to give the component
