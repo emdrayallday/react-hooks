@@ -27,3 +27,13 @@ npm install -D eslint eslint-config-prettier
 ```
 
 need eslint-config-prettier to tell eslint to not worry about spaces and stuff like that
+
+## parcel
+
+```
+npm i -D parcel-bundler
+
+parcel src/index.html
+```
+
+parcel command is available node_modules/.bin/parcel (binary tools and npm just finds it)
